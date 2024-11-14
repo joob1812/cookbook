@@ -1,2 +1,2 @@
 # cookbook
-Ce repo contient des ingredients
+Ce repository contient des ingredients
